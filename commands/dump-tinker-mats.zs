@@ -1,3 +1,8 @@
+// Copyright (C) 2024 Cooper Lockrey
+// You should have received a copy of the GNU General Public License
+// along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+// this script will print the tinker material registry in csv format to crafttweaker.log
 #modloaded tconstruct
 
 import modtweaker.tconstruct.ITICMaterial;
