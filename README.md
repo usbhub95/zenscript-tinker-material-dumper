@@ -12,7 +12,7 @@ placeholder
 [![GNU GPLv3][license-shield]][license-url]
 
 <!-- readme head -->
-<h3 align="center">project_title</h3>
+<h3 align="center">zenscript-tinker-material-dumper</h3>
 
   <p align="center">
     Script that dumps the tinker registry materials to the CraftTweaker log in CSV format upon world load.
